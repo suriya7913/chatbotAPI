@@ -7,8 +7,9 @@ app = Flask(__name__)
 @app.route('/returnjson', methods = ['GET'])
 def ReturnJSON():
     if(request.method == 'GET'):
+        args= request.args
         data = {
-            "Modules" : 15,
+            "Modules" : args.get("name"),
             "Subject" : "Data Stbbbbbructures and Algorithms",
         }
   
