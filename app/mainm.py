@@ -9,7 +9,7 @@ def ReturnJSON():
     if(request.method == 'GET'):
         data = {
             "Modules" : 15,
-            "Subject" : "Data Structures and Algorithms",
+            "Subject" : "Data Stbbbbbructures and Algorithms",
         }
   
         return jsonify(data)
