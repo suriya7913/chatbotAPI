@@ -74,5 +74,3 @@ def get_bot_response():
     return "Missing Data!"
 
 
-if __name__ == "__main__":
-    app.run()
