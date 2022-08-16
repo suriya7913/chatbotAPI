@@ -1,2 +1,2 @@
-model_checkpoint_path: "C:\\Users\\suriy\\Downloads\\chatbot-python-project-data-codes\\model.tflearn"
-all_model_checkpoint_paths: "C:\\Users\\suriy\\Downloads\\chatbot-python-project-data-codes\\model.tflearn"
+model_checkpoint_path: "C:\\Users\\suriy\\apii\\app\\app\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\suriy\\apii\\app\\app\\model.tflearn"
